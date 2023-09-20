@@ -1,0 +1,6 @@
+Django
+django-jazzmin
+python-decouple
+Pillow
+mysqlclient
+mysql-connector-python
